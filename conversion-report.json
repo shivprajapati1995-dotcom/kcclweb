@@ -1,0 +1,202 @@
+{
+  "files": [
+    {
+      "source": "index.php",
+      "output": "index.html",
+      "original_header_include": true,
+      "original_footer_include": true,
+      "bytes": 73983
+    },
+    {
+      "source": "about.php",
+      "output": "about.html",
+      "original_header_include": true,
+      "original_footer_include": true,
+      "bytes": 39342
+    },
+    {
+      "source": "contact.php",
+      "output": "contact.html",
+      "original_header_include": true,
+      "original_footer_include": true,
+      "bytes": 35294
+    },
+    {
+      "source": "team.php",
+      "output": "team.html",
+      "original_header_include": true,
+      "original_footer_include": true,
+      "bytes": 34472
+    },
+    {
+      "source": "australian-coal-complete.php",
+      "output": "australian-coal-complete.html",
+      "original_header_include": true,
+      "original_footer_include": true,
+      "bytes": 72077
+    },
+    {
+      "source": "indonesian-coal-complete.php",
+      "output": "indonesian-coal-complete.html",
+      "original_header_include": true,
+      "original_footer_include": true,
+      "bytes": 53156
+    },
+    {
+      "source": "south-african-coal-complete.php",
+      "output": "south-african-coal-complete.html",
+      "original_header_include": true,
+      "original_footer_include": true,
+      "bytes": 62519
+    },
+    {
+      "source": "us-origin-coal-complete.php",
+      "output": "us-origin-coal-complete.html",
+      "original_header_include": true,
+      "original_footer_include": true,
+      "bytes": 63391
+    },
+    {
+      "source": "metallurgical-coke-complete.php",
+      "output": "metallurgical-coke-complete.html",
+      "original_header_include": true,
+      "original_footer_include": true,
+      "bytes": 63475
+    },
+    {
+      "source": "solutions_product_1.php",
+      "output": "solutions_product_1.html",
+      "original_header_include": true,
+      "original_footer_include": true,
+      "bytes": 53162
+    },
+    {
+      "source": "new.php",
+      "output": "new.html",
+      "original_header_include": true,
+      "original_footer_include": true,
+      "bytes": 42300
+    },
+    {
+      "source": "new1.php",
+      "output": "new1.html",
+      "original_header_include": true,
+      "original_footer_include": true,
+      "bytes": 41864
+    },
+    {
+      "source": "extra.php",
+      "output": "extra.html",
+      "original_header_include": false,
+      "original_footer_include": false,
+      "bytes": 42791
+    }
+  ],
+  "checks": {
+    "contact.html": {
+      "doctype": true,
+      "html_close": true,
+      "header": true,
+      "footer": true,
+      "php_left": false,
+      "local_php_links": false
+    },
+    "index.html": {
+      "doctype": true,
+      "html_close": true,
+      "header": true,
+      "footer": true,
+      "php_left": false,
+      "local_php_links": false
+    },
+    "metallurgical-coke-complete.html": {
+      "doctype": true,
+      "html_close": true,
+      "header": true,
+      "footer": true,
+      "php_left": false,
+      "local_php_links": false
+    },
+    "australian-coal-complete.html": {
+      "doctype": true,
+      "html_close": true,
+      "header": true,
+      "footer": true,
+      "php_left": false,
+      "local_php_links": false
+    },
+    "us-origin-coal-complete.html": {
+      "doctype": true,
+      "html_close": true,
+      "header": true,
+      "footer": true,
+      "php_left": false,
+      "local_php_links": false
+    },
+    "about.html": {
+      "doctype": true,
+      "html_close": true,
+      "header": true,
+      "footer": true,
+      "php_left": false,
+      "local_php_links": false
+    },
+    "extra.html": {
+      "doctype": true,
+      "html_close": true,
+      "header": true,
+      "footer": true,
+      "php_left": false,
+      "local_php_links": false
+    },
+    "south-african-coal-complete.html": {
+      "doctype": true,
+      "html_close": true,
+      "header": true,
+      "footer": true,
+      "php_left": false,
+      "local_php_links": false
+    },
+    "team.html": {
+      "doctype": true,
+      "html_close": true,
+      "header": true,
+      "footer": true,
+      "php_left": false,
+      "local_php_links": false
+    },
+    "new1.html": {
+      "doctype": true,
+      "html_close": true,
+      "header": true,
+      "footer": true,
+      "php_left": false,
+      "local_php_links": false
+    },
+    "solutions_product_1.html": {
+      "doctype": true,
+      "html_close": true,
+      "header": true,
+      "footer": true,
+      "php_left": false,
+      "local_php_links": false
+    },
+    "indonesian-coal-complete.html": {
+      "doctype": true,
+      "html_close": true,
+      "header": true,
+      "footer": true,
+      "php_left": false,
+      "local_php_links": false
+    },
+    "new.html": {
+      "doctype": true,
+      "html_close": true,
+      "header": true,
+      "footer": true,
+      "php_left": false,
+      "local_php_links": false
+    }
+  },
+  "missing_html_targets": {}
+}
